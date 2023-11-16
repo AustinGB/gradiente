@@ -1,0 +1,11 @@
+div{
+    height: 180px;
+    width: 200px;
+    border: 2px solid black;
+}
+.lineal{
+    background: linear-gradient(90deg, yellow, Gold, orange, orangered, red, purple);
+}
+.repetitivo{
+    background: repeating-linear-gradient(-45deg, blue, orange 5px, green 5px,red 5px, aqua 5px, green 5px);
+}
